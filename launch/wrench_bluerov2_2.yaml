@@ -1,4 +1,4 @@
-/wrench:
+/bluerov2_2/wrench:
     type: geometry_msgs/Wrench
     fx:
         min: -20
